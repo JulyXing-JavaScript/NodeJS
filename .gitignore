@@ -1,0 +1,10 @@
+*.*
+
+!bin/
+!include/
+!lib/
+!share/
+!var/
+
+!.gitignore
+!README.md
